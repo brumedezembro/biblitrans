@@ -22,6 +22,8 @@ padding: #6em
 
 <html>
     <p>A <b>Biblioteca Trans-Travesti Brasileira</b> (BTTB) é um projeto de conservação e divulgação de produções bibliográficas realizadas por pessoas trans brasileiras entre os anos de 1982 e 2025. Tem como objetivos a conservação desses documentos através de um acervo digital interno com um <b>sistema de buscas</b> robusto, e a promoção da circulação desses materiais, caso eles sejam de <b>acesso livre e público</b> (<i>open-acess</i>). Esta é uma primeira versão do projeto, que segue em andamento, construído coletivamente por voluntários.
+
+     <p><b>Colabore com a Biblioteca!</b> Preencha <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScKnz3IJbwmTjZk66Pj_7RouzcCbbtB2ixSrQBADHrkSz2xPg/viewform?usp=sharing&ouid=118124074695656720807" target="_blank">nosso formulário</a></b> com sugestões de itens para adicionarmos.
       
     <p>Por ora disponibilizamos três formatos de produções bibliográficas: <b>Teses e dissertações</b>, <b>Artigos em periódicos</b>, e <b>Livros</b>. Cada item do acervo conta com um conjunto de informações com base nesse formato, incluindo Resumo/Sinopse, Universidade, Editora, Autoria, e Ano de Publicação. Esses itens são introduzidos manualmente em nosso sistema, e estamos trabalhando para incluí-los igualmente para cada item do acervo.  <i>Para os LIVROS, buscamos disponibilizar o link para acesso por bibliotecas via WorldCat, e o titulo da editora para referência de compra. Teses e dissertações, artigos em periódicos, e livros de acesso livre, são disponibilizados para download.</i>
       
@@ -38,6 +40,8 @@ padding: #6em
 <h4>About the Library</h4>
 
 <p>The <b>Brazilian Trans-Travesti Library</b> (BTTB) is a project for the conservation and dissemination of bibliography written by Brazilian trans people between 1982 and 2025. Its objectives are to preserve these documents through an internal digital collection with a robust <b>search system</b>, and to promote the circulation of these materials, if they are <b>open-access</b>. This is a first version of the project, under development, built collectively by volunteers.
+
+<p><b>Collaborate with the Library!</b> Fill <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScKnz3IJbwmTjZk66Pj_7RouzcCbbtB2ixSrQBADHrkSz2xPg/viewform?usp=sharing&ouid=118124074695656720807" target="_blank">our form</a></b> with item recommendations for us to include in our Library. 
 
 <p>For now, we provide three bibliography formats: <b>Theses and Dissertations</b>, <b>Journal Articles</b>, and <b>Books</b>. Each item in the collection has a set of information based on this format, including Abstract/Synopsis, University, Publisher, Author, and Year of Publication. These items are manually entered into our system, and we are working to include them equally for each item in the collection. <i>For BOOKS, we aim to provide the link for libraries to access via WorldCat, and the publisher's title for purchase reference. Theses and dissertations, journal articles, and a few open-access books, are avalaible for download.</i>
 
