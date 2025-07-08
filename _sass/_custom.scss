@@ -34,5 +34,12 @@ body {
 }
 
 .navbar .navbar-nav .nav-link {
+  font-size: 110%;
   font-weight: 700;
+  text-align: center;
+}
+
+.thumb-limit {
+  max-width: 450px;
+  max-height: 400px;
 }

@@ -363,7 +363,7 @@ function updateDisplay(filteredItems, query = "", field = "", startDate = "", en
     browseItemsDiv.appendChild(fragment);
     
     // Update count
-    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} of {{ items | size }} items`;
+    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} de {{ items | size }} items`;
     
     // Focus active input (only if needed)
     if (query || startDate || endDate) {

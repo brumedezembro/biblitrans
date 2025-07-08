@@ -35,11 +35,19 @@
 {% endif %}
 <div class="feature-include">
     <figure class="figure rounded p-0 feature-w-{{ include.width | default: '100' }}"> 
-        <div class="{% unless include.height %}ratio ratio-{{ include.ratio | default: '1x1' }}{% endunless %}">
-            <object aria-label="pdf embed of {{ pdf_caption | escape }}" {% if include.height %}width="100%" height="{{ include.height }}"{% endif %} data="{{ src }}">
-                <p><i>PDF não disponível. Disponibilizamos apenas os PDFs de dissertações e teses, artigos, e livros de acesso livre (open acess).</i></p>
-            </object>
-        </div>
+        {% if src %}
+  <div class="{% unless include.height %}ratio ratio-{{ include.ratio | default: '1x1' }}{% endunless %}">
+    <object aria-label="pdf embed of {{ pdf_caption | escape }}" {% if include.height %}width="100%" height="{{ include.height }}"{% endif %} data="{{ src }}">
+      {% include item/item-thumb.html %}
+      <p><p></p><i>PDF não disponível. Disponibilizamos apenas os PDFs de dissertações e teses, artigos, e livros de acesso livre (open acess).</i></p>
+    </object>
+  </div>
+{% else %}
+  <div class="text-center py-1">
+    {% include item/item-thumb.html %}
+    <p><p></p><i>PDF não disponível. Disponibilizamos apenas os PDFs de dissertações e teses, artigos, e livros de acesso livre (open acess).</i></p>
+  </div>
+{% endif %}
     </figure>
 </div>
 </div>
